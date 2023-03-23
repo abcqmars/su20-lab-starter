@@ -1,4 +1,4 @@
-1. 1
-2.
-3.
-4.
+1. find . -name *<keyword>*
+2. top
+3. kill <pid>
+4. diff
