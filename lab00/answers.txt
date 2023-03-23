@@ -1,5 +1,9 @@
 1. ls -all
-2. find . -name *<keyword>*
-3. top
-4. kill <pid>
-5. diff
+2. rm
+3. chmod
+4. pwd
+5. ping
+6. find . -name *<keyword>*
+7. top
+8. kill <pid>
+9. diff
